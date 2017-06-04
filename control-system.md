@@ -16,7 +16,9 @@ Power distribution starts with the battery. We use 12V batteries. From the batte
 
 ## roborio
 
-the roborio is the brain of the control system. it's made by National Instruments.
+the roborio is the brain of the control system. it's made by National Instruments. it's IO includes: PWM, CAN, RS232, USB, analog input, DIO, ethernet, I2C, SPI, and MXP.
+
+see the [roborio manual](http://www.ni.com/pdf/manuals/374474a.pdf) for more info
 
 ## external resources
 
