@@ -31,6 +31,14 @@ The most popular motors in FRC are the cim, mini cim, bag, and 775pro. These mot
 ## 775pro vs cim
 The cim and 775pro are roughly equivalent in power with the cim having 337w of power while the 775pro has 347w according to vex’s testing data. 775pro’s without gearing are about 3x faster than cims. Cims have greater thermal mass allowing them to be stalled for longer. The 775pro motor needs to be vented and monitored more carefully due to the lesser thermal mass. The 775pro is smaller and weighs significantly less than a cim.
 
+## denso throttle motor
+
+the denso throttle motor is a motor that every team has a hundred of. they aren't the most useful or powerful but they're cheap. 
+
+### redbox
+
+team 4613 designed a cheap gearbox called the [redbox](http://www.team4613.org/redbox) that interfaces with the throttle motor. the gearbox is designed to be lasercut
+
 ## external resources
 
-* [vex motor testing data](http://motors.vex.com/)
+### [vex motor testing data](http://motors.vex.com/)

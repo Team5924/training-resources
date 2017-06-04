@@ -16,5 +16,11 @@ the versaplanetary product line allows a planetary gearbox of a custom ratio to 
 
 andymark, vexpro, and wcp all sell different drivetrain gearboxes. these gearboxes vary in areas such as amount of motors, single/double speed, shifting type (dog or ball), and reduction.
 
+### thunderhex
+
+thunderhex is rounded hex stock made and sold by vexpro. thunderhex is compatible with 1/2" hex and thunderhex bearings.
+
+the president of vex explains the thunderhex bearing [here](https://www.chiefdelphi.com/forums/showthread.php?t=131631).
+
 ## external resources
 * [vexpro examples](https://www.vexrobotics.com/vexpro/examples-guides)
