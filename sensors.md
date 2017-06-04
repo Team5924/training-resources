@@ -1,6 +1,6 @@
 # sensors
 
-sensors allow for more complex software control and automation
+sensors allow a robot to understand its environment. strategic sensor use can improve robot performance
 
 ## types of sensors
 

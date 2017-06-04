@@ -18,3 +18,5 @@ planetary gearboxes are most commonly seen in the versaplanetary gearbox. planet
 
 most FRC motors need to be slower, torquier, or both. gearing a motor down allows the high rpm low torque motors used in FRC to be used for a wide breadth of applications.
 
+## external resources
+* [JVN design calc](https://www.chiefdelphi.com/media/papers/3188)

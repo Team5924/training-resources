@@ -16,3 +16,16 @@ MDF makes for a good spoil board. Before use, it should be faced by milling away
 ### host software
 * [pronterface](http://www.pronterface.com/)
 * [cncjs](https://github.com/cncjs/cncjs)
+
+## getting started
+* export dxf from cad software
+* import dxf into cambam
+* assign operations
+* export gcode
+* import gcode into host
+* set origin
+* turn on spindle
+* run gcode
+
+## external resources
+* [smoothieware wiki](http://smoothieware.org/cnc-mill-guide)

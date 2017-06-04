@@ -9,7 +9,7 @@ The soldering iron is used for soldering. The iron has different tips for differ
 
 ### heat gun
 
-the heat gun is primarily used for melting heat shrink
+the heat gun is primarily used for heating heat shrink
 
 ### crimpers
 
