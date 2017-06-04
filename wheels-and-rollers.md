@@ -34,3 +34,6 @@ requires a special hub to interface with 1/2" hex
 
 ### durometer
 
+## external resources
+
+* see [this video](https://www.youtube.com/watch?v=fYKsIe-yMrA&t=2s) by Devin Castelluci of team 1678 on surgical tubing rollers
