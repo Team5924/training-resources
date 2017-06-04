@@ -13,6 +13,8 @@ MDF makes for a good spoil board. Before use, it should be faced by milling away
 ## software
 
 ### cam
+cam stands for computer aided machining. it's what turns our designs into instructions the cnc machine understands and executes. since you can't just put a dxf or step file into your cnc, the cam software is what stands between the design software and the cnc.
+
 [cambam](http://www.cambam.info/) is a simple application for making instructions the cnc machine can understand
  
 ### host software
