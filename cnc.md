@@ -11,7 +11,7 @@ MDF makes for a good spoil board. Before use, it should be faced by milling away
 ## software
 
 ### cam
-cambam is a simple application for making instructions the cnc machine can understand. Our cnc machines use gcode. 
+[cambam](http://www.cambam.info/) is a simple application for making instructions the cnc machine can understand
  
 ### host software
 * [pronterface](http://www.pronterface.com/)

@@ -1,20 +1,15 @@
 # hand tools
 
-## screw driver
+* screw driver
 
-## hack saw
+* hack saw
 
-## reamer
+* reamer
 
-## wrench
+* wrench
 
-## pliers
+* pliers
 
-## hammers/mallets
+* hammers/mallets
 
-There are many different kinds of hammers and mallets. They serve different purposes.
-
-## flush cutters
-
-Most useful tool in the lab
-
+* flush cutters
