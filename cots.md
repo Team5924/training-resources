@@ -1,4 +1,5 @@
 # cots
+cots stands for "commercially off the shelf"
 
 good designs effectively balance the use of cots and custom compenents
 
@@ -23,4 +24,4 @@ thunderhex is rounded hex stock made and sold by vexpro. thunderhex is compatibl
 the president of vex explains the thunderhex bearing [here](https://www.chiefdelphi.com/forums/showthread.php?t=131631).
 
 ## external resources
-* [vexpro examples](https://www.vexrobotics.com/vexpro/examples-guides)
+### [vexpro examples](https://www.vexrobotics.com/vexpro/examples-guides)

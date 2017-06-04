@@ -12,7 +12,7 @@ treaded wheeels provide a deal of traction. different tread has different proper
 
 ### pneumatic
 
-pneumatic wheels are ideal for games such as stronghold
+pneumatic wheels are ideal for games such as stronghold. andymark 
 
 ## intake wheels
 
@@ -29,7 +29,7 @@ complaint wheels are good for manipulating rigid game objects such as steamworks
 
 requires a special hub to interface with 1/2" hex
 
-## wheel and roller properties
+## properties
 
 ### durometer
 
