@@ -8,7 +8,7 @@ our laser is an 80w trotec speedy 360
 
 main materials that will be used for robot work
 
-see [http://atxhackerspace.org/wiki/Laser_Cutter_Materials](this article) for more info
+see [this article](http://atxhackerspace.org/wiki/Laser_Cutter_Materials) for more info
 
 ### delrin
 
