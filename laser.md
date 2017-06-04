@@ -2,28 +2,38 @@
 
 the laser is a good tool for making prototype and production robot parts quickly
 
+our laser is an 80w trotec speedy 360
+
 ## materials
 
 main materials that will be used for robot work
 
+see [http://atxhackerspace.org/wiki/Laser_Cutter_Materials](this article) for more info
+
 ### delrin
 
-	* good for production robot parts
+* good for production robot parts
 
 ### wood
-pros
 
-	* good for prototyping
-	* cheap
+* good for prototyping
+* cheap
 
 ### polycarbonate
 
-	* doesn't cut particularly well
+* doesn't cut particularly well
 
 ### abs
 	
-	* good for production & prototype parts
+* good for production & prototype parts
 
+### the never cut list
+never cut these materials as they may cause damage to the laser or operator
+
+* pvc
+* vinyl
+* fiberglass
+* coated carbon fiber
 
 ## types of joints
 
