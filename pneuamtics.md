@@ -9,33 +9,40 @@ The pneumatic system starts with a compressor. The compressor compresses air up 
 
 
 ## components
-components you'll find in the pneumatic system 
+components you'll find in the pneumatic system. each is linked to an external resource with more info
 
-* compressor
-* solenoids
+* [compressor](http://www.popularmechanics.com/home/how-to/a151/how-air-compressors-work/)
+* [solenoids](http://mechatronics.mech.northwestern.edu/design_ref/actuators/solenoids.html)
 * storage tanks
 * gauge
-* digital gauge
-* regulator
-* manifold
+* [pressure sensor](https://www.andymark.com/product-p/am-3219.htm)
+* [regulator](https://en.wikipedia.org/wiki/Pressure_regulator)
+* [manifold](https://en.wikipedia.org/wiki/Manifold_(fluid_mechanics))
 * fittings
-* pressure relief valve
-* pressure switch
-* pcm
-* actuators
+* [pressure relief valve](https://en.wikipedia.org/wiki/Relief_valve)
+* [pressure switch](Pressure_switch)
+* [pcm](http://www.ctr-electronics.com/pcm.html)
+* [actuators](http://mplab.ucsd.edu/tutorials/Pneumatics.pdf)
 
 ## pcm
 
-The pneumatic control module is our interface between the air and electrical system. The pcm contains several relays to direct power to the compressor and solenoids which in turn cotrol air flow. The pcm communicates with the roborio over the can bus. The pcm is powered through a special port on the pdp. The pcm can accomodate 12V or 24V solenoids (selectable via the VSOL jumper).
+The pneumatic control module is our interface between the air and electrical system. The pcm contains several relays to direct power to the compressor and solenoids which in turn cotrol air flow. The pcm communicates with the roborio over the can bus. The pcm is powered through a special port on the pdp. The pcm can accomodate 12V or 24V solenoids (selectable via the VSOL jumper). CTRE makes the pcm.
 
 ![](images/pcm.jpg)
 
 ## types of fittings
 
-There are several types of fittings for the pneumatic system. 
+there are several types of fittings for the pneumatic system.
 
-![](images/pneumatic-fittings.jpg)
+see [this image](http://img.diytrade.com/cdimg/819313/24261315/0/1324276319/Pneumatic_fittings.jpg) this image for a comprehensive list.
 
-## relevant pages
+## suppliers
 
-* [choosing actuators](choosing-actuators.md)
+* andymark (clippard tanks, pressure sensor)
+* vexpro (fittings, manifold, solenoids)
+* ctre (pcm)
+* mcmaster (actuators)
+
+## external resources
+
+* [http://mechatronics.mech.northwestern.edu/design_ref/actuators/solenoids.html](pneumatics for newbies by FRC team 358) 
