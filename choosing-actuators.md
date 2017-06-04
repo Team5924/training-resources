@@ -2,7 +2,6 @@
 
 types of actuators
 
-* actuators
 * motors
 * pneumatic cylinder
 * rotary pneumatic actuator
