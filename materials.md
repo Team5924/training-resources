@@ -11,13 +11,14 @@ material choice can make or break a design
 * commonly used in clear and smoked colors
 * commonly used in 1/16", 1/8", and 1/4" thickness
 
-### delrin
+### delrin (polyoxymethylene)
 
 * laser cuts well
 
-### abs
+### abs (acrylonitrile butadiene styrene)
 
-* 
+* it's the stuff used in legos
+* can be 3d printed easily
 
 ## wood
 
