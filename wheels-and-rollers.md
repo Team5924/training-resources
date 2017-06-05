@@ -35,7 +35,4 @@ requires a special hub to interface with 1/2" hex
 
 ## external resources
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fYKsIe-yMrA
-" target="_blank"><img src="http://img.youtube.com/vi/fYKsIe-yMrA/0.jpg" width="240" height="180" border="0" /></a>
-
-Devin Castelluci of team 1678 on surgical tubing rollers
+<iframe width="560" height="315" src="http://www.youtube.com/embed/fYKsIe-yMrA?&hd=1" frameborder="0" allowfullscreen></iframe>

@@ -10,3 +10,5 @@ the west coast drive was developed and popularized by team 254
 * center drop
 
 ## external resources
+
+### [Advantages/Disadvantages of West Coast Drive](https://www.chiefdelphi.com/forums/showthread.php?t=152211) 

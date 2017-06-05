@@ -43,3 +43,7 @@ special joints can be used when designing parts knowing that they will be manufa
 
 ### living hinge
 the laser can be used to make a hinge when you need a part to bend
+
+## external resources
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/SIjUVCho_xU?&hd=1" frameborder="0" allowfullscreen></iframe>
