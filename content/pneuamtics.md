@@ -25,7 +25,7 @@ components you'll find in the pneumatic system. each is linked to an external re
 * [pcm](http://www.ctr-electronics.com/pcm.html)
 * [actuators](http://mplab.ucsd.edu/tutorials/Pneumatics.pdf)
 
-## pcm
+### pcm
 
 The pneumatic control module is our interface between the air and electrical system. The pcm contains several relays to direct power to the compressor and solenoids which in turn cotrol air flow. The pcm communicates with the roborio over the can bus. The pcm is powered through a special port on the pdp. The pcm can accomodate 12V or 24V solenoids (selectable via the VSOL jumper). CTRE makes the pcm.
 
