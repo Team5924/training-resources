@@ -33,9 +33,9 @@ The pneumatic control module is our interface between the air and electrical sys
 
 ![](images/pcm.jpg)
 
-## types of fittings
+## fittings
 
-there are several types of fittings for the pneumatic system.
+there are several types of fittings for the pneumatic system
 
 see [this image](http://img.diytrade.com/cdimg/819313/24261315/0/1324276319/Pneumatic_fittings.jpg) this image for a comprehensive list.
 

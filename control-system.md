@@ -1,5 +1,7 @@
 # control system
- 
+
+the control system brings robots to life. 
+
 ## standard components
 * battery
 * breaker
@@ -22,6 +24,16 @@ Power distribution starts with the battery. We use 12V batteries. From the batte
 the roborio is the brain of the control system. it's made by National Instruments. it's IO includes: PWM, CAN, RS232, USB, analog input, DIO, ethernet, I2C, SPI, and MXP.
 
 see the [roborio manual](http://www.ni.com/pdf/manuals/374474a.pdf) for more info
+
+## pdp
+
+the pdp is the heart of the control system. it delivers power to every other part of the control system. the pdp is made by ctre. it uses wago connectors for the 16 20/30/40A ports and weidmuller connectors for the roborio, pcm, and vrm ports.
+
+the pdp exposes information over the can bus, such as how much current each port is drawing.
+
+## radio
+
+as of 2017 the legal radios are the openmesh OM5P-AC and OM5P-AN. they only have two ethernet ports, one of which must be used for connecting to the roborio. a network switch can be used for more ports for things like ip cams. they also both support passive poe.
 
 ## external resources
 
