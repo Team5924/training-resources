@@ -1,6 +1,6 @@
 # polycord
 
-polycord is urethane belting, usually in a round form factor. it makes for good intakes and conveyors
+polycord is urethane belting, usually in a round form factor. it makes for good intakes and conveyors.
 
 ## round polycord
 
@@ -25,11 +25,11 @@ the steps for joinging round polycord with a jig:
 * wait for the connection to fully solidify
 * tug test the joint. if it comes apart, it wasn't done well enough
 
-(insert picture of our jig)
+<iframe width="560" height="315" src="http://www.youtube.com/embed/fYKsIe-yMrA?&hd=1" frameborder="0" allowfullscreen></iframe>
 
 ## flat polycord
 
-### pulleys
+### pulley
 
 flat polycord simply requires a crowned pulley. this can be as simple as a couple wraps of tape around a shaft.
 
@@ -37,7 +37,7 @@ flat polycord simply requires a crowned pulley. this can be as simple as a coupl
 
 ### suppliers
 
-* wcp sells orange flat polycord in various widths
+* mcmaster sells orange flat polycord in various widths
 
 ### joining
 
