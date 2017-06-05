@@ -1,8 +1,10 @@
 # speed controllers
 
-
+frc speed controllers communicate via can or pwm
 
 ## types
+
+for most applications, the speed controller you use won't make a big difference as long as you choose a reliable one. the talon srx, victor sp, and spark have all been reliable in our experience.
 
 ### talon srx
 

@@ -5,6 +5,8 @@ our main 3D printer is an Ultimaker 2+
 ## materials
 We mainly use PLA and PETG. PLA is easy to print but not as resilient as PETG. PETG can be more difficult to print because it likes to stick aggressively to the bed and pull chunks out of the glass. It also has a narrower window for ideal settings than PLA. 
 
+see Thomas Sanladerer's [filaween series](https://www.youtube.com/playlist?list=PLDJMid0lOOYl8TZJV9xHznKFq5yA5ZTi2) for in depth experimental comparison of filaments
+
 ### poly lactic acid (PLA)
 pla is good for parts where strength and temperature resistance aren't a concern. 
 
@@ -62,4 +64,7 @@ The Ultimaker requires occasional maintenance. Here are some things to check eve
 
 ### tommy
 tommy is a makerbot thing-o-matic retrofitted with new parts
- 
+
+## external resources
+
+### [Thomas Sanladerer's Tom's Guides playlist](https://www.youtube.com/watch?v=pRX_uvG9Z-w&list=PLDJMid0lOOYnRCAdbFfzECor3EbqF8euw) 
