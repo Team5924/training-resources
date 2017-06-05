@@ -35,4 +35,4 @@ requires a special hub to interface with 1/2" hex
 
 ## external resources
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/fYKsIe-yMrA?&hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fYKsIe-yMrA?&hd=1" frameborder="0" allowfullscreen></iframe>

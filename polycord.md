@@ -25,7 +25,7 @@ the steps for joinging round polycord with a jig:
 * wait for the connection to fully solidify
 * tug test the joint. if it comes apart, it wasn't done well enough
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/fYKsIe-yMrA?&hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fYKsIe-yMrA?&hd=1" frameborder="0" allowfullscreen></iframe>
 
 ## flat polycord
 
@@ -33,7 +33,7 @@ the steps for joinging round polycord with a jig:
 
 flat polycord simply requires a crowned pulley. this can be as simple as a couple wraps of tape around a shaft.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/6sM0Qjumyro?&hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6sM0Qjumyro?&hd=1" frameborder="0" allowfullscreen></iframe>
 
 ### suppliers
 
